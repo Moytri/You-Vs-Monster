@@ -1,5 +1,5 @@
 # You-Vs-Monster
-Simple game
+Developing a simple game application as a part of #### learn Vue by doing. I'm using the CDN version of Vue due to the simplicity of this project. This project covers two-way data binding, event handling, methods, data, directives, dynamically handling css classes, conditionals and list rendering concepts in Vue.
 
 Screenshots of running application I've created
 #### Screeshots - Start Game Page
